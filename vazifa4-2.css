@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+    width: 300px;
+    margin: 100px;
+}
+.span{
+    color: orangered;
+    margin: 0px 0px 0px 10px;
+}
+.p{
+    margin: 15px 0px;
+}
+.email{
+    width: 170px;
+    height: 30px;
+    border: 1px solid rgb(218, 218, 206);
+    margin: 5px ;
+    background-color: rgb(218, 218, 206);
+}
+.btn{
+    margin: 5px;
+    width: 100px;
+    height: 30px;
+    border: 1px solid orangered;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+}
+.box{
+    border: 1px solid rgb(218, 218, 206);
+    height: 40px;
+    background-color: rgb(218, 218, 206);
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.div2{
+    display: flex;
+    margin: 70px;
+    
+}
+
+.ul{
+    list-style: none;
+    margin: 30px;
+    
+}
+.li{
+    margin: 5px;
+}
+.asosiy{
+    display: flex;
+}
+.asosiy1{
+    display: flex;
+    margin: 0px 100px ;
+}
+.m{
+    margin-left: 365px;
+}
+
